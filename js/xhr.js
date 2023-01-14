@@ -1,4 +1,5 @@
 // 292. Making XHRs
+console.log("XHR");
 
 const req = new XMLHttpRequest();
 

@@ -1,4 +1,5 @@
 // 293. Using the Fetch API
+console.log("Fetch API");
 
 // One request:
 // fetch("https://swapi.dev/api/people/1/")
